@@ -8,6 +8,10 @@ Running list application
 npm ci
 ```
 
+```
+npm run dev
+```
+
 ## Using technology
 
 - Firebase
